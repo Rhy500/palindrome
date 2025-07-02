@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #BFD8D2;
+  padding: 2rem;
+  margin: 0;
+}
+
+h1 {
+	text-align: center;
+	color:#DF744A;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+  background-color: #DF744A;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  color: #DCB239;
+}
+
+
+#result {
+  margin-top: 1.5rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
